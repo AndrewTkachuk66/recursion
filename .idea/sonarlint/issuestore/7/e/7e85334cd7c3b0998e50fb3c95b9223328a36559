@@ -1,0 +1,12 @@
+
+[squid:S2583$"DChange this condition so that it does not always evaluate to "false"(½Þ‡ƒ
+[squid:S2583("DChange this condition so that it does not always evaluate to "false"(½Þ‡ƒ
+O
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ý°÷Ñ
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(‹ÊŽ–ùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÁÊ¼è
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÇÚ¥†ùÿÿÿÿ
+gsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(¥Âªãøÿÿÿÿ
